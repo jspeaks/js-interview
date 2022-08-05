@@ -1,6 +1,6 @@
 const data = {
   name: "Bob",
-  role: "Developer
+  role: "Developer"
 };
 
 console.log(data);
